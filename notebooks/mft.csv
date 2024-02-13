@@ -1,0 +1,45 @@
+,Unnamed: 0_x,name,geocodes.main.latitude,geocodes.main.longitude,location.locality,distance,station_name,Unnamed: 0_y,latitude,longitude,free_bikes,empty_slots,location
+0,0,Institut Príncep de Viana,41.428595,2.186297,Barcelona,364,"RAMBLA DE L'ONZE DE SETEMBRE, 69",0,41.4299999,2.190246,18,8,Barcelona
+1,1,Instituto de Educación Secundaria Princep de Viana,41.427937,2.186681,Barcelona,381,"RAMBLA DE L'ONZE DE SETEMBRE, 69",0,41.4299999,2.190246,18,8,Barcelona
+2,2,IES Escola D´hoteleria I Turisme de Barcelona,41.433979,2.181006,Barcelona,870,"RAMBLA DE L'ONZE DE SETEMBRE, 69",0,41.4299999,2.190246,18,8,Barcelona
+3,3,IES Valldemossa,41.43357,2.180195,Barcelona,924,"RAMBLA DE L'ONZE DE SETEMBRE, 69",0,41.4299999,2.190246,18,8,Barcelona
+4,4,Institut Salvador Seguí,41.423034,2.196703,Barcelona,938,"RAMBLA DE L'ONZE DE SETEMBRE, 69",0,41.4299999,2.190246,18,8,Barcelona
+5,5,Institut Valldemossa,41.434214,2.180371,Barcelona,946,"RAMBLA DE L'ONZE DE SETEMBRE, 69",0,41.4299999,2.190246,18,8,Barcelona
+6,6,Orange Catalunya Xarxes de Telecomunicacions,41.427985,2.18663,Barcelona,375,"RAMBLA DE L'ONZE DE SETEMBRE, 69",0,41.4299999,2.190246,18,8,Barcelona
+7,7,Institut D'Ensenyament Secundari Meridiana,41.431354,2.181407,Barcelona,751,"RAMBLA DE L'ONZE DE SETEMBRE, 69",0,41.4299999,2.190246,18,8,Barcelona
+8,8,Institut D'educacio Secundaria Sant Marti de Provençals,41.422068,2.19591,Barcelona,999,"RAMBLA DE L'ONZE DE SETEMBRE, 69",0,41.4299999,2.190246,18,8,Barcelona
+9,0,I.E.S Ernest Lluch,41.378405,2.150867,Barcelona,377,"AV. PARAL.LEL, 194",1,41.3751161,2.1523091,9,17,Barcelona
+10,1,Escola Bressol el Vaixell,41.378886,2.15596,Barcelona,517,"AV. PARAL.LEL, 194",1,41.3751161,2.1523091,9,17,Barcelona
+11,2,Ies XXV Olimpiada,41.370282,2.148785,Barcelona,612,"AV. PARAL.LEL, 194",1,41.3751161,2.1523091,9,17,Barcelona
+12,3,Institut d'educacio secundaria joan coromines,41.373082,2.144557,Barcelona,684,"AV. PARAL.LEL, 194",1,41.3751161,2.1523091,9,17,Barcelona
+13,4,IES Joan Coromines,41.373164,2.144373,Barcelona,691,"AV. PARAL.LEL, 194",1,41.3751161,2.1523091,9,17,Barcelona
+14,5,Centre Educatiu Forma't,41.374466,2.143752,Barcelona,717,"AV. PARAL.LEL, 194",1,41.3751161,2.1523091,9,17,Barcelona
+15,6,Institut Viladomat,41.382447,2.15442,Barcelona,840,"AV. PARAL.LEL, 194",1,41.3751161,2.1523091,9,17,Barcelona
+16,7,Academia Sefer,41.381567,2.159095,Barcelona,872,"AV. PARAL.LEL, 194",1,41.3751161,2.1523091,9,17,Barcelona
+17,8,Hijas de Maria Auxiliadora Instituto Salesianas de San Juan,41.378427,2.155923,Barcelona,475,"AV. PARAL.LEL, 194",1,41.3751161,2.1523091,9,17,Barcelona
+18,9,Institut Rubió i Tudurí,41.370104,2.149071,Barcelona,618,"AV. PARAL.LEL, 194",1,41.3751161,2.1523091,9,17,Barcelona
+19,0,Institut Quatre Cantons,41.404296,2.200077,Barcelona,672,"C/ BILBAO, 174",2,41.4090202,2.1954152,9,23,Barcelona
+20,1,Ies Joan D'Austria,41.416241,2.199434,Barcelona,783,"C/ BILBAO, 174",2,41.4090202,2.1954152,9,23,Barcelona
+21,2,Infanta Isabel d'Aragó,41.416132,2.199454,Barcelona,846,"C/ BILBAO, 174",2,41.4090202,2.1954152,9,23,Barcelona
+22,3,Institut Salvador Espriu,41.40556,2.187607,Barcelona,972,"C/ BILBAO, 174",2,41.4090202,2.1954152,9,23,Barcelona
+23,4,Ampa Institut Salvador Espliu,41.405494,2.187197,Barcelona,789,"C/ BILBAO, 174",2,41.4090202,2.1954152,9,23,Barcelona
+24,0,Institut D'educacio Secundaria Sant Josep de CalassanÇ,41.413202,2.1786,Barcelona,565,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+25,1,IES Sant Josep de Calassanç,41.413006,2.178425,Barcelona,574,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+26,2,Institut Moisés Broggi,41.413202,2.1786,Barcelona,575,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+27,3,Institut D´educacio Secundaria L´alzina,41.424653,2.178383,Barcelona,749,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+28,4,Institut d'educacio secundaria francisco de goya,41.422723,2.169793,Barcelona,754,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+29,5,IES Joan Brossa,41.415042,2.166952,Barcelona,853,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+30,6,Instituto de Educacion Secundaria Manuel Carrasco y Formiguera,41.426551,2.17377,Barcelona,966,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+31,7,Asociacion Esclat,41.421261,2.17538,Barcelona,363,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+32,8,Grup Cinema Art,41.414617,2.178339,Barcelona,417,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+33,9,Instituto de educacion secundaria pla del quint,41.421992,2.175752,Mislata,438,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+34,10,Institut D´enseyament Secundari Sant Josep de Calassanç,41.413202,2.1786,Barcelona,572,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+35,11,Centre de Telecomunicaciones de Catalunya,41.424562,2.178864,Barcelona,749,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+36,12,Music Cerimonial Nessum Dorma,41.412713,2.169914,Barcelona,804,"C/ D'ESCORNALBOU, 51",3,41.4180789,2.1763994,6,18,Barcelona
+37,0,Escola Itaca,41.388581,2.133887,Barcelona,690,"C/ GANDUXER, 29",4,41.3939378,2.1380304,0,21,Barcelona
+38,1,Instituto N.E.P.P,41.387385,2.138325,Barcelona,728,"C/ GANDUXER, 29",4,41.3939378,2.1380304,0,21,Barcelona
+39,2,Instituto Nepp,41.38735,2.138458,Barcelona,732,"C/ GANDUXER, 29",4,41.3939378,2.1380304,0,21,Barcelona
+40,3,IES Menéndez y Pelayo,41.400067,2.144749,Barcelona,894,"C/ GANDUXER, 29",4,41.3939378,2.1380304,0,21,Barcelona
+41,4,Institut de Batxillerat Menendez y Pelayo,41.400389,2.145364,Barcelona,942,"C/ GANDUXER, 29",4,41.3939378,2.1380304,0,21,Barcelona
+42,5,IES Montserrat,41.401782,2.143209,Barcelona,984,"C/ GANDUXER, 29",4,41.3939378,2.1380304,0,21,Barcelona
+43,6,Instituto D' Educacion Secundaria Montserrat,41.401869,2.143403,Barcelona,988,"C/ GANDUXER, 29",4,41.3939378,2.1380304,0,21,Barcelona

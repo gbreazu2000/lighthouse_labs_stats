@@ -1,0 +1,6 @@
+,station_name,latitude,longitude,free_bikes,empty_slots,location
+0,"RAMBLA DE L'ONZE DE SETEMBRE, 69",41.4299999,2.190246,18,8,Barcelona
+1,"AV. PARAL.LEL, 194",41.3751161,2.1523091,9,17,Barcelona
+2,"C/ BILBAO, 174",41.4090202,2.1954152,9,23,Barcelona
+3,"C/ D'ESCORNALBOU, 51",41.4180789,2.1763994,6,18,Barcelona
+4,"C/ GANDUXER, 29",41.3939378,2.1380304,0,21,Barcelona
